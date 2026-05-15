@@ -5,4 +5,4 @@ names = ["Alice", "Bob"]
 # 錯誤
 x=1+2
 names = ["Alice","Bob"]
-print(names)
+print(names,"版本測試2")
